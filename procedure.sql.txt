@@ -1,1 +1,1 @@
-select * from clientes
+select * from clientes where teste blablabla
